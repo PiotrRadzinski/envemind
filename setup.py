@@ -3,7 +3,6 @@
 from setuptools import setup, find_packages
 from distutils.core import Extension
 import pathlib
-import opentimspy
 
 here = pathlib.Path(__file__).parent.resolve()
 
