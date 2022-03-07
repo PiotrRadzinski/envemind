@@ -9,7 +9,7 @@ here = pathlib.Path(__file__).parent.resolve()
 setup(
     name='envemind',
     version='0.0.1',
-    description='Estimation of parameters in MIDIA experiments',
+    description='Prediction of monoisotopic mass in mass spectra',
 #    long_description=(here / 'README.md').read_text(encoding='utf-8'),
 #    long_description_content_type='text/markdown',
     url='https://github.com/PiotrRadzinski/envemind',
@@ -27,7 +27,7 @@ setup(
             'Programming Language :: Python :: 3.9',
             'Programming Language :: Python :: 3.10',
             ],
-    keywords = 'Mass spectrimetry monisotopic peak',
+    keywords = 'Mass spectrometry monisotopic mass',
     packages=find_packages(),
     python_requires='>=3.6',
     install_requires='numpy scipy IsoSpecPy pyteomics'.split(),
