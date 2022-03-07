@@ -30,9 +30,8 @@ setup(
             ],
     keywords = 'Mass spectrimetry monisotopic peak',
     packages=find_packages(),
-    ext_modules=ext_modules,
     python_requires='>=3.6',
-    install_requires='numpy scipy IsoSpec pyteomics'.split(),
-    entry_points={},
-    scripts=[''],
+    install_requires='numpy scipy IsoSpecPy pyteomics'.split(),
+#    entry_points={},
+#    scripts=[''],
 )
