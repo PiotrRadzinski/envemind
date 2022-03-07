@@ -2,7 +2,7 @@
 An algorithm for monoisotopic mass prediction for high-resolution mass spectra.
 
 # Installation
-To install our package you need following packages first (available on PIP): `numpy`, `scipy`, `IsoSpecPy` and `pyteomics`. Then, just run
+To install our package, you need following packages first (available on PIP): `numpy`, `scipy`, `IsoSpecPy` and `pyteomics`. Then, run
 ```
 git clone git@github.com:PiotrRadzinski/envemind.git
 ```
