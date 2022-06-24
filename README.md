@@ -17,7 +17,7 @@ You can simply run prediction by use of `monoisotopic_mass_prediction(masses, in
 ```
 import envemind as ev
 
-spectra_dict = ev.mzMLread('spectra/Multinomial_600.mzML')
+spectra_dict = ev.mzMLread('data/Multinomial_600.mzML')
 S = spectra_dict[0]
 
 masses = [j[0] for j in S if j[0] > 2119 and j[0] < 2121]
