@@ -30,7 +30,7 @@ setup(
     keywords = 'Mass spectrometry monisotopic mass',
     packages=find_packages(),
     python_requires='>=3.6',
-    install_requires='numpy scipy IsoSpecPy pyteomics'.split(),
+    install_requires='numpy scipy IsoSpecPy pyteomics[XML]'.split(),
 #    entry_points={},
 #    scripts=[''],
 )
