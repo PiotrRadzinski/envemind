@@ -7,7 +7,7 @@ To install our package run
 git clone git@github.com:PiotrRadzinski/envemind.git
 ```
 ```
-pip install envemind --user
+pip install envemind/ --user
 ```
 
 # How to use
