@@ -4,7 +4,7 @@ An algorithm for monoisotopic mass prediction for high-resolution mass spectra.
 # Installation
 To install our package run
 ```
-git clone git@github.com:PiotrRadzinski/envemind.git
+git clone https://github.com/PiotrRadzinski/envemind.git
 ```
 ```
 pip install envemind/ --user
