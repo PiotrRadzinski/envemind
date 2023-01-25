@@ -27,4 +27,4 @@ ev.monoisotopic_mass_prediction(masses, intensities, 8)
 ```
 
 # Citing
-soon
+Radziński, P., Valkenborg, D., Startek, M. P., & Gambin, A. (2022). _Envemind: Accurate Monoisotopic Mass Determination Based On Isotopic Envelope._ Journal of the American Society for Mass Spectrometry, 33(11), 2063-2069.
